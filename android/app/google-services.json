@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619079223851",
+    "project_id": "airplane-3e3ba",
+    "storage_bucket": "airplane-3e3ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619079223851:android:e34f15ccecbc9b23e6386e",
+        "android_client_info": {
+          "package_name": "com.bondan.travel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVddD_d-QBzSJkPaeeg2KyYB4e6-qc3jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
